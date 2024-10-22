@@ -1,0 +1,4 @@
+git status
+git add <guilherme_aparecido.txt>
+git commit -m "Adicionando o arquivo de apresentação"
+git push origin <main>
